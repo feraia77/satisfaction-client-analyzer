@@ -1,0 +1,1 @@
+# satisfaction-client-analyzer
